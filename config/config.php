@@ -5,7 +5,7 @@
  * 
  * Copyright (C) 2005-2012 Leo Feyer
  * 
- * @package   NC Javascript Redirect
+ * @package   NC Text Wizard Widget
  * @author    Marcel Mathias Nolte
  * @copyright Marcel Mathias Nolte 2013
  * @website   https://www.noltecomputer.com
